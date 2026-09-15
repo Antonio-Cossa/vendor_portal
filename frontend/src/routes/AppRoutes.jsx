@@ -4,7 +4,7 @@ import menuItems from "../components/Layout/menuItems.js"
 
 import Dashboard from "../pages/Dashboard.jsx"
 import Login from "../pages/Auth/Login.jsx"
-import Signup from "../pages/Auth/Signup.jsx"
+import SignUp from "../pages/Auth/SignUp.jsx"
 import Orders from "../pages/Orders/Orders.jsx"
 import Products from "../pages/Products/Products.jsx"
 import ProtectedRoute from "./ProtectedRoute.jsx"

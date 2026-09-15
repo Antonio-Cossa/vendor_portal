@@ -10,7 +10,7 @@ import { useAuth } from '../../context/AuthContext';
 import { getErrorMessage } from '../../utils/getErrorMessage';
 
 
-export default function Signup() {
+export default function SignUp() {
     const clearFields = () => {
         setPhone('');
         setPassword('');
